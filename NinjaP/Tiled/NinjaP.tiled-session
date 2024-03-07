@@ -1,0 +1,104 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level1.tmx": {
+            "scale": 1.4087,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2098.3885852204157,
+                "y": 196.63519557038404
+            }
+        },
+        "Level1.tmx#Off": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level1.tmx#Spikes": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level1.tmx#terrain": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level1.tmx#terrain_collide": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "scale": 0.7127,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4216.360319910201,
+                "y": 407.60488283990463
+            }
+        },
+        "level1.tmx#Off": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#Spikes": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#Welcome": {
+            "dynamicWrapping": true
+        },
+        "level1.tmx#background_yellow": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#fire": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#off": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#spikes": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#terrain": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "level1.tmx#terrain_collide": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#trampoline": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 50,
+    "last.exportedFilePath": "/Users/cristian/Documents/Digital School/NinjaP/Tiled",
+    "last.imagePath": "/Users/cristian/Documents/Digital School/NinjaP/assets/PixelAdventure/Background",
+    "map.height": 60,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 800,
+    "openFiles": [
+        "level1.tmx"
+    ],
+    "project": "NinjaP.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level1.tmx",
+        "Level1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
